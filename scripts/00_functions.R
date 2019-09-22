@@ -2,13 +2,8 @@
 #### LOAD PACKAGES AND FUNCTIONS ####
 #####################################
 
+### Load packages:
 library(tidyverse)
 library(lubridate)
 
-
-## another change
-
-## another change (with a modification) again
-
-# New edits to the test branch
-
+### Load custom functions:
