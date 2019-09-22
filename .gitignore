@@ -2,4 +2,5 @@
 *.Rhistory
 *.RData
 *.Ruserdata
-New Project Template.Rproj
+*.Rproj
+*.DS_Store
