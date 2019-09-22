@@ -8,4 +8,7 @@ library(lubridate)
 
 ## another change
 
-## another change (with a different modification) again
+## another change (with a modification) again
+
+# New edits to the test branch
+
